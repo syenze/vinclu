@@ -1,7 +1,9 @@
 vinclu
 ======
 
-    // ライブラリの読み込み
+    // jqery ライブラリの読み込み
+    <script type="text/javascript" src="http://code.jquery.com/jquery.js"></script>
+    // LED ライブラリの読み込み
     <script type="text/javascript" src="vinclu_led.js"></script>
     
     <script type="text/javascript">
