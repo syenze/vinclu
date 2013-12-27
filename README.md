@@ -1,7 +1,7 @@
 vinclu
 ======
 
-<pre>
+`
 // ライブラリの読み込み
 <script type="text/javascript" src="vinclu_led.js"></script>
 
@@ -19,6 +19,6 @@ led1.on();
 led1.off();
 
 </script>
-</pre>
+`
 
 ======
